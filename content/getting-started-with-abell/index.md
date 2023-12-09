@@ -1,5 +1,5 @@
 ---
-title: "Getting Started with Abell"
+title: "FOSS United Aritcle"
 description: "Abell is a Framework Agnostic Static Site Generator. This blog will take you through the basics of Abell."
 createdAt: "19 June 2020"
 ---
